@@ -1,0 +1,16 @@
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge.Tests\bin\Debug\SDS_CodeChallenge.Tests.dll
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge.Tests\bin\Debug\SDS_CodeChallenge.Tests.pdb
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge.Tests\bin\Debug\SDS_CodeChallenge.exe
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge.Tests\bin\Debug\SDS_CodeChallenge.pdb
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge.Tests\bin\Debug\SDS_CodeChallenge.exe.config
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge.Tests\obj\Debug\SDS_CodeChallenge.Tests.csprojResolveAssemblyReference.cache
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge.Tests\obj\Debug\SDS_CodeChallenge.Tests.csproj.CoreCompileInputs.cache
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge.Tests\obj\Debug\SDS_CodeChallenge.Tests.dll
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge.Tests\obj\Debug\SDS_CodeChallenge.Tests.pdb

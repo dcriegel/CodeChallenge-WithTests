@@ -1,0 +1,7 @@
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge\obj\Debug\SDS_CodeChallenge.csprojResolveAssemblyReference.cache
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge\obj\Debug\SDS_CodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge\bin\Debug\SDS_CodeChallenge.exe.config
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge\bin\Debug\SDS_CodeChallenge.exe
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge\bin\Debug\SDS_CodeChallenge.pdb
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge\obj\Debug\SDS_CodeChallenge.exe
+C:\Users\David Riegel\source\repos\SDS_CodeChallenge\SDS_CodeChallenge\obj\Debug\SDS_CodeChallenge.pdb
