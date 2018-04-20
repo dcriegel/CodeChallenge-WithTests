@@ -1,0 +1,2 @@
+# CodeChallenge-WithTests
+For this challenge, I created a console application which executes a particular method in order to update 'Sell-In' and 'Quality' values for a variety of products at a hypothetical store.  The values increment according to a set of constraints/conditions depending on the type of product.  I've also created several test methods and conducted a variety of unit tests in order to prove the validity of the main UpdateQuality method.
